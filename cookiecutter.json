@@ -3,4 +3,4 @@
     "__project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author": "Anonymous",
     "gitlab_group": "mobiel-meten"
-  } 
+  }
