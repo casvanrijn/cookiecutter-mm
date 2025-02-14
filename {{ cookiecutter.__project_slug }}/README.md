@@ -7,7 +7,7 @@ information about how to use a project created by this cookiecutter.
 
 To install {{cookiecutter.__project_slug}}, do:
 
-### Conda 
+### Conda
 
     git clone https://gitlab.com/{{cookiecutter.gitlab_group}}/{{cookiecutter.__project_slug}}.git
     cd {{cookiecutter.__project_slug}}
@@ -32,5 +32,3 @@ To install {{cookiecutter.__project_slug}}, do:
 
     pip install -r requirements.txt
     pytest
-
-

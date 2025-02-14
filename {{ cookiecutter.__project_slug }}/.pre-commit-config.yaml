@@ -55,6 +55,3 @@ repos:
     -   id: requirements-txt-fixer
         name: requirements-txt-fixer
         description: Sorts entries in requirements.txt
-
-
-

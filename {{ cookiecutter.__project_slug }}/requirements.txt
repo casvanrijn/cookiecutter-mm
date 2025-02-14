@@ -1,8 +1,8 @@
- numpy
- pandas
- pytest
- pytest-cov
- pre-commit
- black
- flake8
- isort
+black
+flake8
+isort
+numpy
+pandas
+pre-commit
+pytest
+pytest-cov
