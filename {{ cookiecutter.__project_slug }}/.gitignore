@@ -1,0 +1,35 @@
+*.py[cod]
+*.egg-info
+*.eggs
+.ipynb_checkpoints
+
+build
+dist
+.cache
+__pycache__
+
+htmlcov
+.coverage
+coverage.xml
+.pytest_cache
+
+doc/_build
+doc/apidocs
+public
+
+# ide
+.eclipse
+.idea
+*.swo
+*.swp
+.vscode
+
+# Mac
+.DS_Store
+
+# pyenv
+.python_version
+
+# virtualenvs
+.venv
+venv
